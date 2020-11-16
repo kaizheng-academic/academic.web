@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
+- Recommender Systems
 - Data Mining
-- Data Mining
-- bioinformatics
+- Bioinformatics
+- Drug Discovery
 
 education:
   courses:
