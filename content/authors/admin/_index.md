@@ -19,6 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Data Mining
+- Data Mining
 - bioinformatics
 
 education:
@@ -41,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:kaizheng@csu.edu.cn".
-- icon: twitter
+- icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.researchgate.net/profile/Kai_Zheng43
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kaizheng-academic
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Kai Zheng is a PhD candidate of Computer Science at the CSU Bioinformatics Group. His research interests include data mining, pattern recognition, recommender systems, machine learning, deep learning, intelligent information processing and its applications in bioinformatics.
+Kai Zheng is a PhD candidate of Computer Science at the CSU Bioinformatics Group, School of Computer Science and Engineering, Central South University(CSU). His research interests include data mining, pattern recognition, recommender systems, machine learning, deep learning, intelligent information processing and its applications in bioinformatics.
 
