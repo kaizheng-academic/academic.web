@@ -28,8 +28,8 @@ education:
   - course: PhD in Computer Science
     institution: Central South University
     year: 2020
-  - course: MEng in Computer Application Technology
-    institution: Massachusetts Institute of Technology
+  - course: MEng in Computer Science
+    institution: China University of Mining and Technology
     year: 2017
   - course: BSc in Computer Science
     institution: Central South University
